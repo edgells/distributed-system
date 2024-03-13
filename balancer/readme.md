@@ -1,0 +1,3 @@
+- [x] random balance
+- [x] round-robin balance
+- [x] weight balance
